@@ -1,0 +1,5 @@
+Dec 04 10:15:23 server sshd[1234]: Failed password for admin from 203.0.113.45 port 22
+Dec 04 11:22:18 server sshd[5678]: Failed password for root from 198.51.100.77 port 22
+Dec 04 14:30:45 server sshd[9012]: Accepted password for user1 from 10.0.0.5 port 22
+Dec 04 16:45:12 server sshd[3456]: invalid user test from 192.168.1.100 port 22
+Dec 04 18:20:33 server sshd[7890]: Failed password for admin from 203.0.113.45 port 22
